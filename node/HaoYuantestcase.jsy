@@ -1,0 +1,15 @@
+
+const x = 5;
+
+    const f = function(m){
+        return x
+    }
+
+    const g = function(n){
+        const x = 20
+        const y = n
+        f(x-y)
+    }
+
+    f(1)
+    g(2)
