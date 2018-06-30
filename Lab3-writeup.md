@@ -3,7 +3,10 @@
 Hao Yuan
 
 ## Problem 1: Feed Back
-
+ This lab helped with me understand the difference between static and dynamic scoping. 
+ The auto grader should give better feed back than only showing a few test case. It is
+ not helping when you pass all tests in the spec, you own case and references in auto grader 
+ and yet the auto grader still given a bad grade. 
 
 ## Problem 2: 2(a)
 
